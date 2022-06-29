@@ -23,13 +23,30 @@
 
 ### 📗 Libraries
 
- - [Mal4J](https://github.com/KatsuteDev/Mal4J#readme) - Java wrapper for the official MyAnimeList API
- - [OneMTA](https://github.com/KatsuteDev/OneMTA#readme) - The MTA Bus and Subway APIs all in one Java library
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/KatsuteDev/Mal4J#readme"><img src="https://raw.githubusercontent.com/KatsuteDev/Mal4J/main/assets/logo-sq.png" width="100px;"><br><b>Mal4J</b><br><sub><b>MyAnimeList Java API</b></sub></a><br></td>
+        <td align="center"><a href="https://github.com/KatsuteDev/OneMTA#readme"><img src="https://raw.githubusercontent.com/KatsuteDev/OneMTA/main/assets/logo.png" width="100px;"><br><b>OneMTA</b><br><sub><b>MTA Bus and Subway Java API</b></sub></a><br></td>
+        <td align="center"><a href="https://github.com/KatsuteDev/simplehttpserver#readme"><img src="https://raw.githubusercontent.com/KatsuteDev/simplehttpserver/main/assets/logo.png" width="100px;"><br><b>simplehttpserver</b><br><sub><b>Simple and efficient Java httpserver</b></sub></a><br></td>
+    </tr>
+</table>
 
 ### 💻 Software
 
- - [Desktop Flick](https://github.com/KatsuteDev/Desktop-Flick#readme) - Localized keyboard for any desktop
- - [Stop Chrome](https://github.com/KatsuteDev/Stop-Chrome#readme) - Detect and stop chrome from running in the background
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/KatsuteDev/Desktop-Flick#readme"><img src="https://raw.githubusercontent.com/KatsuteDev/Desktop-Flick/main/logo.png" width="100px;"><br><b>Desktop Flick</b><br><sub><b>Localized keyboard for desktop</b></sub></a><br></td>
+        <td align="center"><a href="https://github.com/KatsuteDev/Stop-Chrome#readme"><img src="https://raw.githubusercontent.com/KatsuteDev/Stop-Chrome/main/icon.png" width="100px;"><br><b>Stop Chrome</b><br><sub><b>Terminate rogue chrome processes</b></sub></a><br></td>
+    </tr>
+</table>
+
+### 🔌 Extensions
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/KatsuteDev/Background#readme"><img src="https://raw.githubusercontent.com/KatsuteDev/Background/main/assets/icon.png" width="100px;"><br><b>Background</b><br><sub><b>Backgrounds for VSCode</b></sub></a><br></td>
+    </tr>
+</table>
 
 <br>
 
