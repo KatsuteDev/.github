@@ -27,7 +27,7 @@
 
 <table align="center">
     <tr>
-        <td colspan="5">
+        <td colspan="3">
             <b>📘 Libraries</b>
         </td>
     </tr>
@@ -41,23 +41,21 @@
         </td>
         <td align="center">
             <a href="https://github.com/KatsuteDev/OneMTA#readme">
-                <img src="https://avatars.githubusercontent.com/u/87244777?s=200&v=4" width="100">
+                <img src="https://raw.githubusercontent.com/KatsuteDev/OneMTA/main/assets/icon.png" width="100">
                 <br>
                 <b>OneMTA</b>
             </a>
         </td>
         <td align="center">
             <a href="https://github.com/KatsuteDev/simplehttpserver#readme">
-                <img src="https://avatars.githubusercontent.com/u/87244777?s=200&v=4" width="100">
+                <img src="https://raw.githubusercontent.com/KatsuteDev/simplehttpserver/main/assets/icon.png" width="100">
                 <br>
                 <b><sup>simplehttpserver</sup></b>
             </a>
         </td>
-        <td width="131">&nbsp;</td>
-        <td width="131">&nbsp;</td>
     </td>
     <tr>
-        <td colspan="5">
+        <td colspan="3">
             <b>💻 Software</b>
         </td>
     </tr>
@@ -76,12 +74,10 @@
                 <b>Stop Chrome</b>
             </a>
         </td>
-        <td width="131">&nbsp;</td>
-        <td width="131">&nbsp;</td>
-        <td width="131">&nbsp;</td>
+        <td></td>
     </tr>
     <tr>
-        <td colspan="5">
+        <td colspan="3">
             <b>✨ Extensions</b>
         </td>
     </tr>
@@ -93,10 +89,8 @@
                 <b>Background</b>
             </a>
         </td>
-        <td width="131">&nbsp;</td>
-        <td width="131">&nbsp;</td>
-        <td width="131">&nbsp;</td>
-        <td width="131">&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
     </tr>
 </table>
 
