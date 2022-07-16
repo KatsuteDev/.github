@@ -89,7 +89,13 @@
                 <b>Background</b>
             </a>
         </td>
-        <td>&nbsp;</td>
+        <td align="center">
+            <a href="https://github.com/KatsuteDev/Settings-Sync#readme">
+                <img src="https://raw.githubusercontent.com/KatsuteDev/Settings-Sync/main/assets/icon.png" width="100">
+                <br>
+                <b><sup>Settings Sync</sup></b>
+            </a>
+        </td>
         <td>&nbsp;</td>
     </tr>
 </table>
