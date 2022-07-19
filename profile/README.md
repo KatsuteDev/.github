@@ -90,8 +90,8 @@
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/KatsuteDev/Settings-Sync#readme">
-                <img src="https://raw.githubusercontent.com/KatsuteDev/Settings-Sync/main/assets/icon.png" width="100">
+            <a href="https://github.com/KatsuteDev/Settings-Repository#readme">
+                <img src="https://raw.githubusercontent.com/KatsuteDev/Settings-Repository/main/assets/icon.png" width="100">
                 <br>
                 <b><sup>Settings Repository</sup></b>
             </a>
