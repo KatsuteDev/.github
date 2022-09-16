@@ -1,0 +1,26 @@
+name: Update Repository Bot
+
+on:
+  workflow_dispatch:
+  schedule:
+    cron: 0 11 * * 1
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch Workflows
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.PAT }}
+          script: |
+            const repos = ["Mal4J", "OneMTA", "GitHub-Red-Issues", "simplehttpserver", "Stop-Chrome", "Desktop-Flick", "Background", "Settings-Repository", "GitHub-Red-Issues"]
+
+            for(const repo of repos){
+              github.rest.actions.createWorkflowDispatch({
+                owner: 'KatsuteDev',
+                repo: repo,
+                workflow_id: 'bot.yml',
+                ref: 'main',
+              })
+            }
