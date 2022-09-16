@@ -3,10 +3,10 @@ name: Update Repository Bot
 on:
   workflow_dispatch:
   schedule:
-    cron: 0 11 * * 1
+    - cron: 0 11 * * 1
 
 jobs:
-  build:
+  dispatch:
     runs-on: ubuntu-latest
     steps:
       - name: Dispatch Workflows
