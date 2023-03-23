@@ -109,7 +109,9 @@
 
 <div>
     <h2>&nbsp;</h2>
-    <img alt="GitHub Copilot" align="left" src="https://raw.githubusercontent.com/KatsuteDev/.github/main/profile/copilot-dark.png#gh-dark-mode-only" width="50">
-    <img alt="GitHub Copilot" align="left" src="https://raw.githubusercontent.com/KatsuteDev/.github/main/profile/copilot-light.png#gh-light-mode-only" width="50">
-    <sub>GitHub Copilot is <b>strictly prohibited</b> on all repositories in this organization.<br>Pulls using this service will be rejected.</sub>
+    <img alt="GitHub Copilot" align="left" src="https://raw.githubusercontent.com/Katsute/Repository-Manager/main/assets/copilot-dark.png#gh-dark-mode-only" width="50">
+    <img alt="Open AI" align="left" src="https://raw.githubusercontent.com/Katsute/Repository-Manager/main/assets/openai-dark.png#gh-dark-mode-only" width="50">
+    <img alt="GitHub Copilot" align="left" src="https://raw.githubusercontent.com/Katsute/Repository-Manager/main/assets/copilot-light.png#gh-light-mode-only" width="50">
+    <img alt="Open AI" align="left" src="https://raw.githubusercontent.com/Katsute/Repository-Manager/main/assets/openai-light.png#gh-light-mode-only" width="50">
+    <sub>GitHub Copilot and ChatGPT are <b>strictly prohibited</b> on all repositories in this organization.</sub>
 </div>
