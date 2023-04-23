@@ -4,13 +4,13 @@
     </a>
     <h3>KatsuteDev</h3>
     <a href="https://www.linkedin.com/in/keith-chiu">
-        <img alt="linkedin" src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=LinkedIn&color=0A66C2&logoColor=white">
+        <img alt="LinkedIn @Keith-Chiu" src="https://img.shields.io/static/v1?label=&message=LinkedIn&style=for-the-badge&logo=LinkedIn&color=0A66C2&logoColor=white">
     </a>
     <a href="https://wellfound.com/u/katsute">
-        <img src="https://img.shields.io/static/v1?label=&message=AngelList&style=for-the-badge&logo=AngelList&color=000000&logoColor=white">
+        <img alt="Wellfound @Katsute" src="https://raw.githubusercontent.com/KatsuteDev/.github/main/profile/wellfound.svg">
     </a>
     <a href="https://ko-fi.com/katsute">
-        <img src="https://img.shields.io/static/v1?label=&message=Ko-fi&style=for-the-badge&logo=KoFi&color=FF5E5B&logoColor=white">
+        <img alt="Ko-Fi @Katsute" src="https://img.shields.io/static/v1?label=&message=Ko-fi&style=for-the-badge&logo=KoFi&color=FF5E5B&logoColor=white">
     </a>
     <p>Open source software, libraries, and extensions.</p>
     ⎯ <a href="https://katsute.dev/">katsute.dev</a>
