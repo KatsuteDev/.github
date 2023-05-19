@@ -17,8 +17,10 @@
     <br>
     ⎯ <a href="https://docs.katsute.dev/">docs.katsute.dev</a>
 </div>
+
+<br>
+
 <div>
-    <h2>&nbsp;</h2>
     <img alt="GitHub Copilot" align="left" src="https://raw.githubusercontent.com/Katsute/Manager/main/assets/copilot-dark.png#gh-dark-mode-only" width="50">
     <img alt="Open AI" align="left" src="https://raw.githubusercontent.com/Katsute/Manager/main/assets/openai-dark.png#gh-dark-mode-only" width="50">
     <img alt="GitHub Copilot" align="left" src="https://raw.githubusercontent.com/Katsute/Manager/main/assets/copilot-light.png#gh-light-mode-only" width="50">
