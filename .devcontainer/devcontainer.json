@@ -1,0 +1,5 @@
+{
+    "image": "node:20",
+    "postAttachCommand": "cd banner; npm i",
+    "shutdownAction": "stopContainer"
+}

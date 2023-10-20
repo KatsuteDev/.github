@@ -1,0 +1,9 @@
+{
+    "name": "banner",
+    "scripts": {},
+    "license": "CC-BY-NC-SA-4.0",
+    "devDependencies": {
+        "@fontsource/lexend-deca": "5.0.8",
+        "simple-icons": "9.18.0"
+    }
+}
