@@ -2,37 +2,112 @@
 Copyright (C) 2023 Katsute <https://github.com/Katsute>
 -->
 <!DOCTYPE html>
-<html>
+<html class="p-0 m-0 w-full h-full">
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="index.css">
+        <link rel="stylesheet" href="node_modules/@fontsource-variable/lexend-deca/index.css">
     </head>
-    <body class="">
-        <div class="kofi view"></div>
-        <div class="wellfound view"></div>
-        <div class="linkedin view"></div>
-        <div class="container">
-            <div class="tc">
-                <img class="logo" src="../assets/v2/dev.png">
-                <p class="text">built by open source</p>
+    <body class="p-0 m-0 w-full h-full flex justify-center items-center overflow-hidden bg-[#101010]">
+        <div class="absolute h-full flex justify-center items-center">
+            <div class="view kofi"></div>
+            <div class="view wellfound"></div>
+            <div class="view linkedin"></div>
+        </div>
+        <div class="absolute h-full mt-[-300px]">
+            <div class="h-full skew-y-12 opacity-50">
+                <div id="grid" class="grid grid-cols-5 auto-rows-fr gap-4">
+                    <img src="https://raw.githubusercontent.com/KatsuteDev/Mal4J/main/assets/banner.png">
+                    <div class="card" style="background: linear-gradient(135deg, #3278be 0%, #0039A6 100%);">
+                            <img src="https://raw.githubusercontent.com/KatsuteDev/OneMTA/main/assets/icon.png">
+                            <p>OneMTA</p>
+                    </div>
+                    <div class="card" style="background: linear-gradient(135deg, #00FFA3 0%, #32BE99 100%);">
+                            <img src="https://raw.githubusercontent.com/KatsuteDev/simplehttpserver/main/assets/icon.png">
+                            <p>simplehttpserver5</p>
+                    </div>
+                    <div class="card" style="background: linear-gradient(135deg, #3b82f6 0%, #0098FF 100%);">
+                        <img src="https://raw.githubusercontent.com/KatsuteDev/Language-Board/main/assets/icon.png">
+                        <p>Language Board</p>
+                    </div>
+                    <img src="https://raw.githubusercontent.com/KatsuteDev/Desktop-Flick/main/assets/banner.png">
+                    <div class="card" style="background: linear-gradient(135deg, #e04062 0%, #eba601 100%);">
+                        <img src="https://raw.githubusercontent.com/KatsuteDev/Stop-Chrome/main/assets/icon.png">
+                        <p>Stop Chrome</p>
+                    </div>
+                    <div class="card" style="background: linear-gradient(135deg, #3278be 0%, #0098FF 100%);">
+                        <img src="https://raw.githubusercontent.com/KatsuteDev/Background/main/assets/icon.png">
+                        <p>Background</p>
+                    </div>
+                    <div class="card" style="background: linear-gradient(135deg, #3278be 0%, #0098FF 100%);">
+                        <img src="https://raw.githubusercontent.com/KatsuteDev/Settings-Repository/main/assets/icon.png">
+                        <p>Settings Repository</p>
+                    </div>
+                    <div class="card" style="background: linear-gradient(135deg, #e76c86 0%, #f85149 100%);">
+                        <img src="https://raw.githubusercontent.com/KatsuteDev/GitHub-Red-Issues/main/assets/icon.png">
+                        <p>GitHub Red Issues</p>
+                    </div>
+                    <div class="card" style="background: linear-gradient(135deg, #303030 0%, #202020 100%);">
+                        <img src="https://raw.githubusercontent.com/Ktt-Development/simplehttpserver/main/branding/Logo-Sharp.png">
+                        <p>simplehttpserver</p>
+                    </div>
+                    <div class="card" style="background: linear-gradient(135deg, #303030 0%, #202020 100%);">
+                        <img src="https://raw.githubusercontent.com/Ktt-Development/rexedia/main/icon.png">
+                        <p>rexedia</p>
+                    </div>
+                </div>
             </div>
-            <div class="bc">
-                <img class="icon" src="node_modules/simple-icons/icons/github.svg">
-                <span class="divider"></span>
-                <img class="icon" src="node_modules/simple-icons/icons/apachemaven.svg">
-                <img class="icon" src="node_modules/simple-icons/icons/nodedotjs.svg">
-                <img class="icon" src="node_modules/simple-icons/icons/bootstrap.svg">
-                <img class="icon" src="node_modules/simple-icons/icons/tailwindcss.svg">
-                <img class="icon" src="node_modules/simple-icons/icons/electron.svg">
-                <span class="divider"></span>
+        </div>
+        <div class="w-[720px] z-10">
+            <div class="flex items-end">
+                <img class="w-[150px] rounded-lg mr-4" src="../assets/v2/dev.png">
+                <div class="flex flex-row justify-between w-full">
+                    <p class="text-white text-2xl font-light">built by open source</p>
+                    <div class="flex flex-row items-center">
+                        <img class="invert h-5" src="node_modules/simple-icons/icons/github.svg">
+                        <p class="ml-1 text-white">Katsute</p>
+                    </div>
+                </div>
+            </div>
+            <hr class="border-white border-[1px] my-4">
+            <div class="flex flex-row items-center">
                 <img class="icon" src="java.svg">
                 <img class="icon" src="node_modules/simple-icons/icons/javascript.svg">
                 <img class="icon" src="node_modules/simple-icons/icons/typescript.svg">
                 <img class="icon" src="node_modules/simple-icons/icons/python.svg">
                 <img class="icon" src="node_modules/simple-icons/icons/cplusplus.svg">
+                <p class="text-white text-4xl leading-none font-thin px-1 mb-1">+</p>
+                <img class="icon" src="node_modules/simple-icons/icons/apachemaven.svg">
+                <img class="icon" src="node_modules/simple-icons/icons/nodedotjs.svg">
+                <img class="icon" src="node_modules/simple-icons/icons/bootstrap.svg">
+                <img class="icon" src="node_modules/simple-icons/icons/tailwindcss.svg">
+                <img class="icon" src="node_modules/simple-icons/icons/electron.svg">
             </div>
         </div>
+
+        <script>
+            // {
+            //     const items = [...document.querySelectorAll("#grid > *")];
+
+            //     let r_Idx;
+
+            //     for(let c_Idx = items.length; c_Idx--; ){
+            //         r_Idx = Math.floor(Math.random() * c_Idx);
+            //         [items[c_Idx], items[r_Idx]] = [items[r_Idx], items[c_Idx]];
+            //     }
+
+            //     for(let i = 0; i < items.length; i++)
+            //         document.querySelector("#grid").appendChild(items[i]);
+            // }
+
+            {
+                const items = [...document.querySelectorAll("#grid > *")];
+
+                for(let i = items.length; i < 30; i++)
+                    document.querySelector("#grid").appendChild(items[i%items.length].cloneNode(true));
+            }
+        </script>
     </body>
 </html>

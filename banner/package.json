@@ -1,9 +1,13 @@
 {
     "name": "banner",
-    "scripts": {},
+    "scripts": {
+        "build": "tailwindcss -i style.css -o index.css",
+        "watch": "tailwindcss -i style.css -o index.css --watch"
+    },
     "license": "CC-BY-NC-SA-4.0",
     "devDependencies": {
-        "@fontsource/lexend-deca": "5.0.8",
-        "simple-icons": "9.18.0"
+        "@fontsource-variable/lexend-deca": "5.0.8",
+        "simple-icons": "9.18.0",
+        "tailwindcss": "3.3.3"
     }
 }
