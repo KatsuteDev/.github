@@ -41,15 +41,6 @@
 
 }
 
-.wellfound {
-
-    width: calc(1200px * var(--mul));
-    height: calc(260px * var(--mul));
-
-    border-color: pink !important;
-
-}
-
 .linkedin {
 
     width: calc(800px * var(--mul));
