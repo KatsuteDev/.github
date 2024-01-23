@@ -32,15 +32,6 @@
 
 }
 
-.kofi {
-
-    width: calc(1200px * var(--mul));
-    height: calc(400px * var(--mul));
-
-    border-color: red !important;
-
-}
-
 .linkedin {
 
     width: calc(800px * var(--mul));
