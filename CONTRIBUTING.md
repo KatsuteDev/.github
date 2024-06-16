@@ -23,12 +23,3 @@ Do not add or change workflows under any circumstance, only maintainers are auth
 ### Copyright and License
 
 It is unlawful to reproduce any code from this organization without retaining the original copyright. Furthermore any derivative works must be compliant with the repository's license.
-
-<div>
-    <h2>&nbsp;</h2>
-    <img alt="GitHub Copilot" align="left" src="https://raw.githubusercontent.com/Katsute/Manager/main/assets/copilot-dark.png#gh-dark-mode-only" width="50">
-    <img alt="Open AI" align="left" src="https://raw.githubusercontent.com/Katsute/Manager/main/assets/openai-dark.png#gh-dark-mode-only" width="50">
-    <img alt="GitHub Copilot" align="left" src="https://raw.githubusercontent.com/Katsute/Manager/main/assets/copilot-light.png#gh-light-mode-only" width="50">
-    <img alt="Open AI" align="left" src="https://raw.githubusercontent.com/Katsute/Manager/main/assets/openai-light.png#gh-light-mode-only" width="50">
-    <p>AI generated code is <b>strictly prohibited</b> on all repositories in this organization.</p>
-</div>
