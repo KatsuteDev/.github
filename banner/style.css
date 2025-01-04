@@ -6,7 +6,7 @@
 
 * {
 
-    --mul: 1.5;
+    --mul: 2;
 
     font-family: "Lexend Deca Variable";
 
@@ -38,6 +38,15 @@
     height: calc(200px * var(--mul));
 
     border-color: lightskyblue !important;
+
+}
+
+.github {
+
+    width: calc(900px * var(--mul));
+    height: calc(350px * var(--mul));
+
+    border-color: lightgreen !important;
 
 }
 

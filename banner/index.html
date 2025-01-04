@@ -13,6 +13,7 @@ Copyright (C) 2023 Katsute <https://github.com/Katsute>
     <body class="p-0 m-0 w-full h-full flex justify-center items-center overflow-hidden bg-[#101010]">
         <div class="hidden absolute h-full flex justify-center items-center">
             <div class="view linkedin"></div>
+            <div class="view github"></div>
         </div>
         <div class="absolute h-full mt-[-300px]">
             <div class="h-full skew-y-12 opacity-40">
@@ -23,8 +24,8 @@ Copyright (C) 2023 Katsute <https://github.com/Katsute>
                     </div>
                     <img src="https://raw.githubusercontent.com/KatsuteDev/Mal4J/main/assets/banner.png">
                     <div class="card" style="background: linear-gradient(135deg, #3278be 0%, #0039A6 100%);">
-                            <img src="https://raw.githubusercontent.com/KatsuteDev/OneMTA/main/assets/icon.png">
-                            <p>OneMTA</p>
+                        <img src="https://raw.githubusercontent.com/KatsuteDev/OneMTA/main/assets/icon.png">
+                        <p>OneMTA</p>
                     </div>
                     <div class="card" style="background: linear-gradient(135deg, #3278be 0%, #0098FF 100%);">
                         <img src="https://raw.githubusercontent.com/KatsuteDev/Settings-Repository/main/assets/icon.png">
@@ -74,38 +75,21 @@ Copyright (C) 2023 Katsute <https://github.com/Katsute>
                 <img class="icon" src="java.svg">
                 <img class="icon" src="node_modules/simple-icons/icons/javascript.svg">
                 <img class="icon" src="node_modules/simple-icons/icons/typescript.svg">
-                <img class="icon" src="node_modules/simple-icons/icons/python.svg">
-                <img class="icon" src="node_modules/simple-icons/icons/cplusplus.svg">
                 <p class="text-white text-4xl leading-none font-thin px-1 mb-1">+</p>
                 <img class="icon" src="node_modules/simple-icons/icons/apachemaven.svg">
                 <img class="icon" src="node_modules/simple-icons/icons/nodedotjs.svg">
-                <img class="icon" src="node_modules/simple-icons/icons/bootstrap.svg">
                 <img class="icon" src="node_modules/simple-icons/icons/tailwindcss.svg">
-                <img class="icon" src="node_modules/simple-icons/icons/electron.svg">
+                <img class="icon" src="node_modules/simple-icons/icons/cloudflare.svg">
+                <img class="icon" src="node_modules/simple-icons/icons/azurefunctions.svg">
+                <img class="icon" src="node_modules/simple-icons/icons/salesforce.svg">
             </div>
         </div>
 
         <script>
-            // {
-            //     const items = [...document.querySelectorAll("#grid > *")];
+            const items = [...document.querySelectorAll("#grid > *")];
 
-            //     let r_Idx;
-
-            //     for(let c_Idx = items.length; c_Idx--; ){
-            //         r_Idx = Math.floor(Math.random() * c_Idx);
-            //         [items[c_Idx], items[r_Idx]] = [items[r_Idx], items[c_Idx]];
-            //     }
-
-            //     for(let i = 0; i < items.length; i++)
-            //         document.querySelector("#grid").appendChild(items[i]);
-            // }
-
-            {
-                const items = [...document.querySelectorAll("#grid > *")];
-
-                for(let i = items.length; i < 30; i++)
-                    document.querySelector("#grid").appendChild(items[i%items.length].cloneNode(true));
-            }
+            for(let i = items.length; i < 30; i++)
+                document.querySelector("#grid").appendChild(items[i%items.length].cloneNode(true));
         </script>
     </body>
 </html>
